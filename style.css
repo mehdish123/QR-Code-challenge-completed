@@ -1,0 +1,46 @@
+body{
+background-color: rgb(240, 240, 240);
+
+}
+.attribution{
+    font-size: 11px;
+    text-align: center;
+    
+}
+
+.attribution a {
+color: hsl(228, 45%, 44%);
+}
+
+img{
+    height: 90%;
+    width: 90%;
+    border-radius: 5%;
+    padding: 0px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 100px 0px;
+    background-color: rgb(213, 225, 239);
+    margin: 75px 40px;
+    border-radius: 2%;
+    
+}
+
+.back{
+    background-color: white;
+    padding: 15px 0px;
+    align-items: center;
+    margin: 0px 41.5%;
+    border-radius: 5%;
+    filter: drop-shadow(0 0 0.2rem rgb(168, 158, 158));
+}
+
+.writing{
+    padding: 10px 15px;
+}
+
